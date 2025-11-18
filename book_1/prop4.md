@@ -17,4 +17,4 @@ the triangle will be equal to the triangle, and the remaining angles
 - By placing the equal sides on top of each other AC and EF along with ED and AB
 - We also have an equal angles between them DEF and BAC
 - We see that the side DF coincides with BC,
-  the other interior angles are equal and the triangles are similar
+  the other interior angles are equal and the triangles are equal
