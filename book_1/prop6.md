@@ -11,7 +11,7 @@ be equal to one another.
 
 - We are given the triangle ABC where angle ABC is equal to angle CAB
 - We consider that side AC is larger than side BC
-- We know how to cut off a side from the larger that is equal to the less from Prop 4
+- We know how to cut off a side from the larger that is equal to the less from Prop 3
 - Hence we have AD is equal to BC
 - Angle DAB is common along with the common length AB
 - From Prop 5, we have if the sides are equal and the angle between them is equal then the triangles
