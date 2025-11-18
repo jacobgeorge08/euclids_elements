@@ -1,4 +1,4 @@
-BOOK 1 PROPOSITION 2
+# BOOK 1 PROPOSITION 2
 
 To place at a given point (as an extremity) a straight line equal to a given straight line.
 
